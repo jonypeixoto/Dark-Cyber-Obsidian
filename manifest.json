@@ -1,0 +1,11 @@
+{
+    "name": "Dark Cyber",
+    "version": "1.1.0",
+    "minAppVersion": "1.0.0",
+    "author": "jonypeixoto",
+    "authorUrl": "https://github.com/jonypeixoto",
+    "fundingUrl": {
+        "Buy Me a Coffee": "https://buymeacoffee.com/jonypeixoto",
+        "GitHub Sponsor": "https://github.com/sponsors/jonypeixoto"
+    }
+}
