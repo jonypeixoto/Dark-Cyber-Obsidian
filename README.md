@@ -22,9 +22,9 @@ All instructions can be found in the included [Install](INSTALL.md) file.
 
 This theme is maintained by the following person(s).
 
-| [![Jony Peixoto](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/jony.png?size=50)](https://github.com/jonypeixoto) |  |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [Jony Peixoto](https://github.com/jonypeixoto)                                              |
+| [![Jony Peixoto](https://github.com/jonypeixoto.png?size=100)](https://github.com/jonypeixoto) |
+| ---------------------------------------------------------------------------------------- |
+| [Jony Peixoto](https://github.com/jonypeixoto)                                               |                                           |
 
 ## Contributing
 
